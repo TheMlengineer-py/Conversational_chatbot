@@ -1,0 +1,65 @@
+{
+    "intents": [
+      {"tag": "greeting",
+       "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day", "Hey", "bawoni", "Hi"],
+       "responses": ["Hi user", "how can I help", "Ey watsupp", "padi mi", "Hola", "Hey dude", "You again"]
+      },
+      {"tag": "goodbye",
+       "patterns": ["Bye", "See you later", "Goodbye", "Ok bye", "Bye Bye", "odabo"],
+       "responses": ["See you!", "Have a nice day", "Sure Bye", "Later dude", "alaye later", "Peace out", "Sure dude", "see you soon", "oga we talk later"]
+      },
+      {"tag": "thanks",
+       "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+       "responses": ["Happy to help!", "Any time!", "My pleasure", "You are welcome", "Sure dude", "alaye anytime", "we go dey catch na"]
+      },
+      {"tag": "noanswer",
+       "patterns": [],
+       "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand", "I am still here dude", "oga i no understand you", "howfar wetin you mean"]
+      },
+      {"tag": "name",
+        "patterns": ["What is your name", "Whats your name", "Tell me your name", "Who are you", "kini oruko re", "Tell me about yourself", "You are", "who you be"],
+        "responses": ["I am dayo", "My name is dayo", "You can call me dy for short", "I am dayo, my friends call me Mr Dy", "dayo is my name"]
+      },
+      {"tag": "options",
+         "patterns": ["What do you do", "How can you help", "What do you know", "What is your purpose", "How can you help", "wetin you sabi", "how you fit help your guy"],
+         "responses": ["I can tell you about Osogbo", "I can give you interesting facts about Osogbo"]
+      },
+      {"tag": "Osogbo_info",
+        "patterns": ["Osogbo", "What can you tell me about OS", "OS", "Tell me about OS", "What about OS", "What do you know about OS", "Tell me more about OSOGBO", "What can you tell me about OSOGBO", "Tell me about OSOGBO", "What about OSOGBO", "What do you know about OSOGBO", "Tell me more about OSOGBO"],
+        "responses": ["Osogbo, also spelled Oshogbo, town, capital of Osun state, southwestern Nigeria. Lying along the Osun (Oshun) River, it is situated on the railroad from Lagos and at the intersection of roads from Ilesa, Ede, Ogbomosho, and Ikirun. The town is served by a local airport.Originally settled by the Ijesha (a subtribe of the Yoruba) from Ibokun, 12 miles (19 km) east, it remained a small town subservient to the Ijesha kingdom of Ilesa, to the southeast, until it was greatly enlarged in the early 19th century by an influx of Oyo-Yorubas fleeing from the Fulani conquerors. In 1840 Osogbo was the scene of a battle that proved the turning point in the Fulani-Yoruba wars. Armed with European rifles bought from coastal tribes, infantrymen from Ibadan decisively defeated the Fulani cavalrymen; this victory made Ibadan, 50 miles (80 km) southwest, the largest and most powerful city of the Yoruba people. Osogbo continued to pay tribute to Ibadan until 1951, when it became part of that province. It became part of Oyo state in 1976 and the capital of the newly created state of Osun in 1991."]
+        },
+        {"tag": "Osogbo_facts",
+         "patterns": ["Osogbo Facts", "OS Facts", "Give me some facts about OS", "Give me some facts about Osogbo", "OS Facts", "OS interesting facts", "Osogbo facts", "Osogbo interesting facts", "Tell me something interesting"],
+         "responses": ["The present Yoruba inhabitants of Osogbo have an oba (“king”) who functions in an advisory role and holds the traditional title of ataoja (“he who stretches out his hand and takes the fish”), first given to Laro, one of the town’s founders, who, according to legend, fed the fish of the Osun River and in return received a liquid believed to be effective against sterility in women. The river and its personification and namesake, the goddess Osun (or Oshun; a Yoruba heroine deified for her role in saving Osogbo), are honoured at an annual festival in the town in August. Two chalk- and camwood-covered shrines are connected with this worship—the Ile Osun (at the oba’s market), in which are stored the idols of the cult, and the Ojubo Osun (on a bend of the river at Laro’s original settlement), which is the centre of the worship. The Osun-Osogbo Sacred Grove, a forested area with shrines and sanctuaries honouring Osun and other deities, was designated a UNESCO World Heritage site in 2005. With the construction of the railway in 1906 from Lagos, Osogbo became a major collecting point for cocoa and palm oil and kernels produced in the surrounding area. The town’s trade is primarily in yams, cassava (manioc), corn (maize), beans, okra, palm produce, and cotton. Food-processing plants and a steel-rolling mill are local industries. Osogbo is the site of Osun state university campus, the lautech teaching hospital and several modern infrastruycture, several sons and daughters of osogbo are residents in far away in Middle east, America and Europe. Next to the oba’s market is the central mosque and the town hall. Pop. (2016 est.) urban agglom., 820,000"]
+        }
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
